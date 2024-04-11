@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ikt206g24v-05.props" />
+</Project>
